@@ -1,0 +1,6 @@
+docker-jupyter/terraform.tfstate
+docker-jupyter/terraform.tfstate.backup
+docker-jupyter/credentials.json
+docker-jupyter/ubuntu
+docker-jupyter/ubuntu.pub
+
