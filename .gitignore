@@ -3,4 +3,9 @@ docker-jupyter/terraform.tfstate.backup
 docker-jupyter/credentials.json
 docker-jupyter/ubuntu
 docker-jupyter/ubuntu.pub
+docker-tomcat/terraform.tfstate
+docker-tomcat/terraform.tfstate.backup
+docker-tomcat/credentials.json
+docker-tomcat/ubuntu
+docker-tomcat/ubuntu.pub
 
