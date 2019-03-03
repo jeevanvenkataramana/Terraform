@@ -3,8 +3,6 @@
 ### App Description
 `TODO://` Using Terraform to bring up the server in GCP
 
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
-
 ### Steps to execute
 - [ ] 1. Copy files to a project folder.
 
